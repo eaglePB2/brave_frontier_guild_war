@@ -30,7 +30,7 @@
 - 视窗可以自由拖曳，还可以关闭，调整大小等功能。
 
 # 目前进度：
-- Index：完成，懒得修各种小bug
+- Index：![](https://geps.dev/progress/75) *懒得修各种小bug*
 
 # 鸣谢名单：
 ![](https://static.wikia.nocookie.net/bravefrontierglobal/images/1/10/Guild_insignia_15.png)
