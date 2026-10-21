@@ -401,6 +401,11 @@ body {
   border-radius: 4px;
 }
 
+#chrome-pop-up {
+  width: 800px;
+  height: 890px;
+}
+
 #season21,
 #season22,
 #season23,
